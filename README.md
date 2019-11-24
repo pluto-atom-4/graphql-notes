@@ -1,2 +1,2 @@
 # hello-graphql
-Play around graphql
+Playing around graphql
