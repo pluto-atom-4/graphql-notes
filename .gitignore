@@ -24,4 +24,6 @@ yarn-error.log*
 
 # Intellij IDEA
 .idea/
-/server/node_modules/
+**/node_modules/
+dist
+
